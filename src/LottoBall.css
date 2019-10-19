@@ -1,0 +1,15 @@
+.LottoBall {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-color: rgb(53, 114, 245);
+}
+
+.LottoBall-number {
+    color: #fff;
+    font-size: 35px;
+}
